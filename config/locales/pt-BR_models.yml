@@ -1,0 +1,25 @@
+'pt-BR':
+  activerecord:
+    models:
+      coin:
+        one: Meoda
+        others: Moedas
+      mining_type:
+        one: Tipo de Mineração
+        others: Tipos de Mineração
+    attributes:
+      coin:
+        id: Código
+        description: Descrição
+        acronym: Sigla
+        mining_type: Tipo de Mineração
+        mining_type_id: Tipo de Mineração
+        url_image: URL da imagem
+        updated_at: Atualizado em
+        created_at: Creado em
+      mining_type:
+        id: Código
+        description: Descrição
+        acronym: Sigla
+        updated_at: Atualizado em
+        created_at: Creado em

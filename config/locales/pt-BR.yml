@@ -1,0 +1,12 @@
+'pt-BR':
+  actual_local: Português do Brasil
+  links:
+    edit: Editar
+    show: Mostar
+    delete: Apagar
+    back: Voltar
+    coin: Moeda
+    mining_type: Tipo de Mineração
+    acronym: Sigla
+    description: Descrição
+    new_mining_type: Novo Tipo de Mineração
