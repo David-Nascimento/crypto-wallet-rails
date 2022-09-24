@@ -1,5 +1,9 @@
 en:
-  actual_local: English (International)
+  current_local: English (International)
+  welcome: Welcome!
+  messages:
+    welcome: This is Crypto Wallet, an app for you to register and track your cryptocurrencies
+    menu: To start, choose an option below
   links:
     edit: Edit
     show: Show

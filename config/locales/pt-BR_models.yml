@@ -2,7 +2,7 @@
   activerecord:
     models:
       coin:
-        one: Meoda
+        one: Moeda
         others: Moedas
       mining_type:
         one: Tipo de Mineração
