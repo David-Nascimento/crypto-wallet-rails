@@ -15,3 +15,12 @@ en:
     acronym: Acronym
     description: Description
     new: New Mining Type
+  new:
+    coin: New Coins
+    mining_type: New Mining type
+  editing:
+    coin: Editing Coint
+    mining_type: Editing Mining Type
+  showing:
+    coin: Showing Coin
+    mining_type: Showing Mining Type
