@@ -4,6 +4,7 @@ en:
   messages:
     welcome: This is Crypto Wallet, an app for you to register and track your cryptocurrencies
     menu: To start, choose an option below
+    confirm: Are you sure?
   links:
     edit: Edit
     show: Show
@@ -13,4 +14,13 @@ en:
     mining_type: Mining Type
     acronym: Acronym
     description: Description
-    new_mining_type: New Mining Type
+    new: New Mining Type
+  new:
+    coin: New Coins
+    mining_type: New Mining type
+  editing:
+    coin: Editing Coint
+    mining_type: Editing Mining Type
+  showing:
+    coin: Showing Coin
+    mining_type: Showing Mining Type
